@@ -37,7 +37,6 @@ public class JavaApplication5 {
      System.out.println("\nPlease enter your ID:" );        
       String ID = inputOne.next();
       System.out.println("Hello" + myName + ",your ID is:" + ID);
-     
       }
     }
     
